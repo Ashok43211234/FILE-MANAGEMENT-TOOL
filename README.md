@@ -105,4 +105,8 @@ A user wants to create a diary:
    The conclusion is, i am gathering the all the tools from youtube and other social medias and "vs code" is use to run the code and execute it.
    and this code can perform read,write,append the data in a file that's why we named as "FILE MANAGEMENT
    TOOL".
+
+   #OUTPUT
+
+   ![Image](https://github.com/user-attachments/assets/1cd52448-eaf7-4c54-82f1-9f08fba77a68)
    
